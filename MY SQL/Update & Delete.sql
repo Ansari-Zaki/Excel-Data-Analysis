@@ -26,3 +26,4 @@ VALUES (122,"Crown Hotel","Project Launch Meeting",70000,"2026-07-05",90),
 (128,"Crown Hotel","Project Launch Meeting",70000,"2026-05-01","90"),
 (129,"Crown Hotel","Project Launch Meeting",70000,"2026-05-01","90");*/
 SELECT * FROM clients
+
