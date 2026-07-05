@@ -115,6 +115,9 @@ SELECT * FROM profile;
 DELETE FROM profile
 WHERE profile_id=71;
 SELECT * FROM profile;*/
+SHOW DATABASES;
+SHOW TABLES;
+SELECT * FROM profile;
 
 
 
